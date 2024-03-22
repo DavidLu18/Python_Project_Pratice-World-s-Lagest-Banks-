@@ -1,0 +1,10 @@
+2024-Mar-20-21:14:03 : Start Process
+2024-Mar-20-21:14:09 : Extract Complete
+2024-Mar-20-21:14:09 : Transform Complete
+2024-Mar-20-21:14:09 : Load To File .CSV Complete
+2024-Mar-20-21:14:09 : Connect To DataBase Successful
+2024-Mar-20-21:14:09 : Load To DataBase Complete
+2024-Mar-20-21:14:09 : Process Complete
+2024-Mar-20-21:19:55 : Start Process
+2024-Mar-20-21:20:00 : Extract Complete
+2024-Mar-20-21:20:00 : Transform Complete
